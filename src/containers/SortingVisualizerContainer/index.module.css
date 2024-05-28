@@ -1,0 +1,9 @@
+.visualizerContainer {
+	height: 500px;
+}
+
+.bar-visualizer {
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-end;
+}
